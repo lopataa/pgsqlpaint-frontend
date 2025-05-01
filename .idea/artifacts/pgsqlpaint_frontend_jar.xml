@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pgsqlpaint-frontend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pgsqlpaint_frontend_jar</output-path>
+    <root id="archive" name="pgsqlpaint-frontend.jar">
+      <element id="module-output" name="pgsqlpaint-frontend" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/6.2.1/HikariCP-6.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.7.5/postgresql-42.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.48.3/checker-qual-3.48.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="postgresql" />
+      <element id="library" level="project" name="zaxxer.HikariCP" />
+    </root>
+  </artifact>
+</component>
